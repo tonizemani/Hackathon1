@@ -1,0 +1,70 @@
+Item:
+• dress
+• flannel shirt
+• hat jacket and scarf
+• jacket
+• shirt
+• shirt and jeans
+• shoes
+• skirt
+• sweater
+• t shirt and jeans
+• tank top and shorts
+• tuxedo
+
+Color:
+• black
+• black and red
+• black and white
+• blue
+• blue and black
+• blue and white
+• blue and yellow
+• gray and white
+• green
+• red
+• red and black
+• red and white
+• red and yellow
+• white and black
+• yellow and white
+
+Style:
+• chic
+• edgy
+• modern
+• modern chic
+
+Casuality:
+• casual
+• formal
+
+Material:
+• cotton
+• denim
+• leather
+• wool
+
+Patterns:
+• checkerboard
+• geometric
+• no pattern
+• none
+• plaid
+• stripes
+
+Occasion:
+• casual
+• dress
+• dress code
+• dressy casual
+• party
+• shirt and pants
+• shirt and tie
+• suit
+• suit and tie
+
+Seasonality:
+• fall
+• summer
+• winter
